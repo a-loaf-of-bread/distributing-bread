@@ -2,7 +2,7 @@ Decision Log
 
 (Most recent decision on top)
 
-### Decision: (20th May 2026)
+#### Decision: (20th May 2026)
 > Create a file COMPLIANCE.md and update CONTRIBUTING.md to ensure that the repository is compliant with the GitHub Acceptable Use Policies and all contributors are aware of the necessities of this repository and the platform hosting it
 
 Reasoning:
@@ -11,7 +11,7 @@ Reasoning:
 - The acceptable use policies set high standards, which is precisely what this repo already aimed for (such as intellectual honesty and rigorous proof)
 - The core objective of the acceptabe use policies happens to match Islamic principles and teachings in nature
 
-### Decision: (9th May 2026)
+#### Decision: (9th May 2026)
 > To create a "decision log" file in the rough-bread branch
 
 Reasoning:
