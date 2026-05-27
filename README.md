@@ -128,6 +128,10 @@ Why compile? Why synthesize?
 - There are many great resources on the internet already. Scattered. A doubting Muslim may not have sufficient willpower to search for many articles. So make a collection for them.
 - Synthesie because... for one issue, there might be 10 good URLs/resources posted. Resource 1 might be great for a general overview, whilst resource 9 might have a GENIUS point. Most people would probably read the first resource, or the first 3 or 4. Thus missing the great point. So the synthesis will allow everything to be presented (the general overview + the great point) in one coherent piece of writing. Need to contact authors of said great points for permission to reproduce, and can also make the point in a different way whilst giving full credit to original author. 
 
+Another important note: The reason why project is open-source, and not solo... there are several examples throughout history of someone starting a  project or a book and similar things but dying before it's finished. The projects usually die that way as well. So an open source project hosted here on GitHub should hopefully (InshaAllah) increase the bus factor and ensure its completion even if significantly later. 
+
+Note #3: the pamphlet Common Sense by Thomas Paine. Really persuasive and helpful. And the best thing was, it wasn't a standalone pamphlet. It was read aloud so that even people who couldn't read could understand the message. Might try the same with this project. Podcasts, video series, etc. InshaAllah we can also take accessibility into account and prepare versions for blind people, deaf people, etc.  
+
 ---
 
 ## Project ER-97
